@@ -1,0 +1,16 @@
+F:\HabitForge\backend\HabitForge.Application\bin\Debug\net10.0\HabitForge.Application.deps.json
+F:\HabitForge\backend\HabitForge.Application\bin\Debug\net10.0\HabitForge.Application.dll
+F:\HabitForge\backend\HabitForge.Application\bin\Debug\net10.0\HabitForge.Application.pdb
+F:\HabitForge\backend\HabitForge.Application\bin\Debug\net10.0\HabitForge.Domain.dll
+F:\HabitForge\backend\HabitForge.Application\bin\Debug\net10.0\HabitForge.Domain.pdb
+F:\HabitForge\backend\HabitForge.Application\obj\Debug\net10.0\HabitForge.Application.csproj.AssemblyReference.cache
+F:\HabitForge\backend\HabitForge.Application\obj\Debug\net10.0\HabitForge.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\HabitForge\backend\HabitForge.Application\obj\Debug\net10.0\HabitForge.Application.AssemblyInfoInputs.cache
+F:\HabitForge\backend\HabitForge.Application\obj\Debug\net10.0\HabitForge.Application.AssemblyInfo.cs
+F:\HabitForge\backend\HabitForge.Application\obj\Debug\net10.0\HabitForge.Application.csproj.CoreCompileInputs.cache
+F:\HabitForge\backend\HabitForge.Application\obj\Debug\net10.0\HabitForge.Application.sourcelink.json
+F:\HabitForge\backend\HabitForge.Application\obj\Debug\net10.0\HabitFor.DCBF30A0.Up2Date
+F:\HabitForge\backend\HabitForge.Application\obj\Debug\net10.0\HabitForge.Application.dll
+F:\HabitForge\backend\HabitForge.Application\obj\Debug\net10.0\refint\HabitForge.Application.dll
+F:\HabitForge\backend\HabitForge.Application\obj\Debug\net10.0\HabitForge.Application.pdb
+F:\HabitForge\backend\HabitForge.Application\obj\Debug\net10.0\ref\HabitForge.Application.dll

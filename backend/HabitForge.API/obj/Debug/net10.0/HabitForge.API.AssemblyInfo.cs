@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HabitForge.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29981ec18b8c66d98278df80ac03896669f12154")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78795fc95bfea661d8b562a383ac48b4d847ea05")]
 [assembly: System.Reflection.AssemblyProductAttribute("HabitForge.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HabitForge.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
