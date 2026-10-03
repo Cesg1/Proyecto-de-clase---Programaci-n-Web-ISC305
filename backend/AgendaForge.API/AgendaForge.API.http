@@ -1,0 +1,12 @@
+### 1. Obtener todas las tareas (Prueba del Verbo GET)
+GET http://localhost:5023/api/tareas
+Accept: application/json
+
+### 2. Crear una nueva tarea (Prueba del Verbo POST)
+POST http://localhost:5023/api/tareas
+Content-Type: application/json
+
+{
+  "Nombre": "Estudiar Arquitectura Limpia y Event Sourcing",
+  "Descripcion": "Repaso"
+}

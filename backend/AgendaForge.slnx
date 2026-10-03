@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AgendaForge.API/AgendaForge.API.csproj" />
+  <Project Path="AgendaForge.Application/AgendaForge.Application.csproj" />
+  <Project Path="AgendaForge.Domain/AgendaForge.Domain.csproj" />
+  <Project Path="AgendaForge.Infrastructure/AgendaForge.Infrastructure.csproj" />
+</Solution>

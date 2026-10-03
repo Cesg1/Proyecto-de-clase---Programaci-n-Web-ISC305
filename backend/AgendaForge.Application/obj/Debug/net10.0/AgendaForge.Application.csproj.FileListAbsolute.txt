@@ -1,0 +1,16 @@
+F:\AgendaForge\backend\AgendaForge.Application\bin\Debug\net10.0\AgendaForge.Application.deps.json
+F:\AgendaForge\backend\AgendaForge.Application\bin\Debug\net10.0\AgendaForge.Application.dll
+F:\AgendaForge\backend\AgendaForge.Application\bin\Debug\net10.0\AgendaForge.Application.pdb
+F:\AgendaForge\backend\AgendaForge.Application\bin\Debug\net10.0\AgendaForge.Domain.dll
+F:\AgendaForge\backend\AgendaForge.Application\bin\Debug\net10.0\AgendaForge.Domain.pdb
+F:\AgendaForge\backend\AgendaForge.Application\obj\Debug\net10.0\AgendaForge.Application.csproj.AssemblyReference.cache
+F:\AgendaForge\backend\AgendaForge.Application\obj\Debug\net10.0\AgendaForge.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\AgendaForge\backend\AgendaForge.Application\obj\Debug\net10.0\AgendaForge.Application.AssemblyInfoInputs.cache
+F:\AgendaForge\backend\AgendaForge.Application\obj\Debug\net10.0\AgendaForge.Application.AssemblyInfo.cs
+F:\AgendaForge\backend\AgendaForge.Application\obj\Debug\net10.0\AgendaForge.Application.csproj.CoreCompileInputs.cache
+F:\AgendaForge\backend\AgendaForge.Application\obj\Debug\net10.0\AgendaForge.Application.sourcelink.json
+F:\AgendaForge\backend\AgendaForge.Application\obj\Debug\net10.0\AgendaFo.398EFE69.Up2Date
+F:\AgendaForge\backend\AgendaForge.Application\obj\Debug\net10.0\AgendaForge.Application.dll
+F:\AgendaForge\backend\AgendaForge.Application\obj\Debug\net10.0\refint\AgendaForge.Application.dll
+F:\AgendaForge\backend\AgendaForge.Application\obj\Debug\net10.0\AgendaForge.Application.pdb
+F:\AgendaForge\backend\AgendaForge.Application\obj\Debug\net10.0\ref\AgendaForge.Application.dll
