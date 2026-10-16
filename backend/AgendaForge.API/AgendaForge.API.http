@@ -10,3 +10,20 @@ Content-Type: application/json
   "Nombre": "Estudiar Arquitectura Limpia y Event Sourcing",
   "Descripcion": "Repaso"
 }
+
+### 3. Obtener una tarea específica por ID (Prueba del Verbo GET por ID)
+GET http://localhost:5023/api/tareas/1
+Accept: application/json
+
+### 4. Actualizar una tarea existente (Prueba del Verbo PUT)
+PUT http://localhost:5023/api/tareas/1
+Content-Type: application/json
+
+{
+  "Nombre": "Estudiar Arquitectura Limpia y Event Sourcing (Actualizado)",
+  "Descripcion": "Repaso intensivo para el examen",
+  "Completada": true
+}
+
+### 5. Eliminar una tarea (Prueba del Verbo DELETE)
+DELETE http://localhost:5023/api/tareas/1

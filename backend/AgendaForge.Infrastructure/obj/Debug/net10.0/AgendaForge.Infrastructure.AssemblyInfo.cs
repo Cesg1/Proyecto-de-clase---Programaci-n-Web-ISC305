@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgendaForge.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1f86f830744aa006452720eebac28ff592efe82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e268c9d5e058bb6001833c0275e7a28d7a757f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgendaForge.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgendaForge.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
